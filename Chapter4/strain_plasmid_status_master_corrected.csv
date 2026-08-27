@@ -1,0 +1,242 @@
+Genome_ID,species,asm_level,n_contigs,len,accessory,has_plasmid_34,has_plasmid_corrected
+GCF_018141305.1_ASM1814130v1,Borreliella afzelii,Complete Genome,1,0.92,21,FALSE,FALSE
+GCF_026571835.1_ASM2657183v1,Borreliella afzelii,Complete Genome,1,0.91,19,FALSE,FALSE
+GCF_026571795.1_ASM2657179v1,Borreliella afzelii,Complete Genome,1,0.91,19,FALSE,FALSE
+GCF_026571995.1_ASM2657199v1,Borreliella afzelii,Complete Genome,1,0.91,20,FALSE,FALSE
+GCF_026571955.1_ASM2657195v1,Borreliella afzelii,Complete Genome,1,0.91,19,FALSE,FALSE
+GCF_026571735.1_ASM2657173v1,Borreliella afzelii,Chromosome,1,0.91,19,FALSE,FALSE
+GCF_026571775.1_ASM2657177v1,Borreliella afzelii,Complete Genome,1,0.91,19,FALSE,FALSE
+GCF_026571635.1_ASM2657163v1,Borreliella afzelii,Complete Genome,1,0.9,19,FALSE,FALSE
+GCF_026571715.1_ASM2657171v1,Borreliella afzelii,Complete Genome,1,0.9,19,FALSE,FALSE
+GCF_026571655.1_ASM2657165v1,Borreliella afzelii,Complete Genome,1,0.9,20,FALSE,FALSE
+GCF_026571755.1_ASM2657175v1,Borreliella afzelii,Complete Genome,1,0.9,19,FALSE,FALSE
+GCF_026571875.1_ASM2657187v1,Borreliella afzelii,Complete Genome,1,0.9,18,FALSE,FALSE
+GCF_026571915.1_ASM2657191v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026572915.1_ASM2657291v1,Borreliella afzelii,Complete Genome,1,0.9,19,FALSE,FALSE
+GCF_026571615.1_ASM2657161v1,Borreliella afzelii,Chromosome,1,0.9,19,FALSE,FALSE
+GCF_026571895.1_ASM2657189v1,Borreliella afzelii,Complete Genome,1,0.9,18,FALSE,FALSE
+GCF_026571675.1_ASM2657167v1,Borreliella afzelii,Complete Genome,1,0.9,20,FALSE,FALSE
+GCF_026571695.1_ASM2657169v1,Borreliella afzelii,Complete Genome,1,0.9,19,FALSE,FALSE
+GCF_026571935.1_ASM2657193v1,Borreliella afzelii,Complete Genome,1,0.9,18,FALSE,FALSE
+GCF_026571815.1_ASM2657181v1,Borreliella afzelii,Complete Genome,1,0.88,16,FALSE,FALSE
+GCF_001900865.1_ASM190086v1,Borreliella afzelii,Chromosome,32,1.26,289,TRUE,TRUE
+GCF_040790685.1_ASM4079068v1,Borreliella afzelii,Complete Genome,13,1.25,283,TRUE,TRUE
+GCF_000741005.1_ASM74100v1,Borreliella afzelii,Complete Genome,3,0.99,113,TRUE,TRUE
+GCF_026572875.1_ASM2657287v1,Borreliella afzelii,Complete Genome,1,0.91,18,FALSE,FALSE
+GCF_026572895.1_ASM2657289v1,Borreliella afzelii,Complete Genome,1,0.91,18,FALSE,FALSE
+GCF_026643535.1_ASM2664353v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026644475.1_ASM2664447v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026644785.1_ASM2664478v1,Borreliella afzelii,Complete Genome,1,0.9,18,FALSE,FALSE
+GCF_026644375.1_ASM2664437v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026643595.1_ASM2664359v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026644635.1_ASM2664463v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026643555.1_ASM2664355v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026643575.1_ASM2664357v1,Borreliella afzelii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026644015.1_ASM2664401v1,Borreliella afzelii,Complete Genome,1,0.87,21,FALSE,FALSE
+GCF_000222835.1_ASM22283v1,Borreliella afzelii,Complete Genome,18,1.4,344,TRUE,TRUE
+GCF_000962775.1_ASM96277v1,Borreliella afzelii,Complete Genome,14,1.31,310,TRUE,TRUE
+GCF_000165595.2_ASM16559v2,Borreliella afzelii,Chromosome,12,1.23,292,TRUE,TRUE
+GCF_000304735.1_ASM30473v1,Borreliella afzelii,Complete Genome,1,0.91,19,FALSE,FALSE
+GCF_041014875.1_ASM4101487v1,Borreliella afzelii,Chromosome,1,0.91,17,FALSE,FALSE
+GCF_014525925.1_ASM1452592v1,Borreliella bavariensis,Contig,38,1.35,335,FALSE,TRUE
+GCF_014525935.1_ASM1452593v1,Borreliella bavariensis,Contig,31,1.33,324,FALSE,TRUE
+GCF_018831585.1_ASM1883158v1,Borreliella bavariensis,Complete Genome,19,1.32,307,TRUE,TRUE
+GCF_026572815.1_ASM2657281v1,Borreliella bavariensis,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572375.1_ASM2657237v1,Borreliella bavariensis,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572675.1_ASM2657267v1,Borreliella bavariensis,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572475.1_ASM2657247v1,Borreliella bavariensis,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572835.1_ASM2657283v1,Borreliella bavariensis,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572795.1_ASM2657279v1,Borreliella bavariensis,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026572855.1_ASM2657285v1,Borreliella bavariensis,Complete Genome,1,0.91,14,FALSE,FALSE
+GCF_026572535.1_ASM2657253v1,Borreliella bavariensis,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572455.1_ASM2657245v1,Borreliella bavariensis,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026572395.1_ASM2657239v1,Borreliella bavariensis,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026572415.1_ASM2657241v1,Borreliella bavariensis,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026572515.1_ASM2657251v1,Borreliella bavariensis,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_014525705.1_ASM1452570v1,Borreliella bavariensis,Contig,18,1.3,340,FALSE,TRUE
+GCF_014525565.1_ASM1452556v1,Borreliella bavariensis,Contig,20,1.3,341,FALSE,TRUE
+GCF_014525715.1_ASM1452571v1,Borreliella bavariensis,Contig,15,1.29,353,FALSE,TRUE
+GCF_014525755.1_ASM1452575v1,Borreliella bavariensis,Contig,13,1.29,354,FALSE,TRUE
+GCF_014525525.1_ASM1452552v1,Borreliella bavariensis,Contig,13,1.28,352,FALSE,TRUE
+GCF_014525785.1_ASM1452578v1,Borreliella bavariensis,Contig,16,1.28,345,FALSE,TRUE
+GCF_003814425.1_ASM381442v1,Borreliella bavariensis,Complete Genome,12,1.28,329,TRUE,TRUE
+GCF_014525745.1_ASM1452574v1,Borreliella bavariensis,Contig,16,1.27,318,FALSE,TRUE
+GCF_014525455.1_ASM1452545v1,Borreliella bavariensis,Scaffold,12,1.27,339,FALSE,TRUE
+GCF_014525805.2_ASM1452580v2,Borreliella bavariensis,Complete Genome,12,1.26,341,TRUE,TRUE
+GCF_014525815.1_ASM1452581v1,Borreliella bavariensis,Contig,19,1.26,342,FALSE,TRUE
+GCF_014526025.1_ASM1452602v1,Borreliella bavariensis,Contig,33,1.24,291,FALSE,TRUE
+GCF_014525685.1_ASM1452568v1,Borreliella bavariensis,Contig,13,1.24,303,FALSE,TRUE
+GCF_014525845.1_ASM1452584v1,Borreliella bavariensis,Scaffold,15,1.29,351,FALSE,TRUE
+GCF_014526045.1_ASM1452604v1,Borreliella bavariensis,Contig,15,1.29,356,FALSE,TRUE
+GCF_014525535.1_ASM1452553v1,Borreliella bavariensis,Scaffold,13,1.29,352,FALSE,TRUE
+GCF_014526005.1_ASM1452600v1,Borreliella bavariensis,Scaffold,20,1.26,317,FALSE,TRUE
+GCF_014525665.1_ASM1452566v1,Borreliella bavariensis,Scaffold,13,1.26,343,FALSE,TRUE
+GCF_000196215.1_ASM19621v1,Borreliella bavariensis,Complete Genome,3,0.99,108,TRUE,TRUE
+GCF_040819585.1_PFhe_I_PB_Ill_cons,Borreliella burgdorferi,Complete Genome,15,1.34,368,TRUE,TRUE
+GCF_002151485.1_ASM215148v1,Borreliella burgdorferi,Complete Genome,11,1.3,303,TRUE,TRUE
+GCF_002151465.1_ASM215146v1,Borreliella burgdorferi,Complete Genome,12,1.29,296,TRUE,TRUE
+GCF_024662195.1_ASM2466219v1,Borreliella burgdorferi,Complete Genome,21,1.51,436,TRUE,TRUE
+GCF_019464575.1_ASM1946457v1,Borreliella burgdorferi,Complete Genome,19,1.43,376,TRUE,TRUE
+GCF_024662175.1_ASM2466217v1,Borreliella burgdorferi,Complete Genome,18,1.42,368,TRUE,TRUE
+GCF_002442595.2_ASM244259v2,Borreliella burgdorferi,Complete Genome,19,1.41,360,TRUE,TRUE
+GCF_040790765.1_ASM4079076v1,Borreliella burgdorferi,Complete Genome,19,1.4,368,TRUE,TRUE
+GCF_024662155.1_ASM2466215v1,Borreliella burgdorferi,Complete Genome,18,1.39,362,TRUE,TRUE
+GCF_040790735.1_ASM4079073v1,Borreliella burgdorferi,Complete Genome,18,1.39,365,TRUE,TRUE
+GCF_040790785.1_ASM4079078v1,Borreliella burgdorferi,Complete Genome,18,1.38,358,TRUE,TRUE
+GCF_040790745.1_ASM4079074v1,Borreliella burgdorferi,Complete Genome,18,1.37,390,TRUE,TRUE
+GCF_002996605.1_ASM299660v1,Borreliella burgdorferi,Contig,49,1.36,387,FALSE,TRUE
+GCF_002151505.1_ASM215150v1,Borreliella burgdorferi,Complete Genome,13,1.34,323,TRUE,TRUE
+GCF_002083055.2_ASM208305v2,Borreliella burgdorferi,Contig,12,1.34,335,FALSE,TRUE
+GCF_002996545.1_ASM299654v1,Borreliella burgdorferi,Contig,38,1.34,372,FALSE,TRUE
+GCF_002996385.1_ASM299638v1,Borreliella burgdorferi,Contig,47,1.34,391,FALSE,TRUE
+GCF_002996125.1_ASM299612v1,Borreliella burgdorferi,Contig,49,1.33,379,FALSE,TRUE
+GCF_002995865.1_ASM299586v1,Borreliella burgdorferi,Contig,44,1.33,370,FALSE,TRUE
+GCF_040790795.1_ASM4079079v1,Borreliella burgdorferi,Complete Genome,16,1.33,369,TRUE,TRUE
+GCF_002996925.1_ASM299692v1,Borreliella burgdorferi,Contig,40,1.32,372,FALSE,TRUE
+GCF_040790755.1_ASM4079075v1,Borreliella burgdorferi,Complete Genome,16,1.32,347,TRUE,TRUE
+GCF_002996245.1_ASM299624v1,Borreliella burgdorferi,Contig,40,1.32,369,FALSE,TRUE
+GCF_002996005.1_ASM299600v1,Borreliella burgdorferi,Contig,49,1.31,371,FALSE,TRUE
+GCF_002996965.1_ASM299696v1,Borreliella burgdorferi,Contig,46,1.31,331,FALSE,TRUE
+GCF_002995915.1_ASM299591v1,Borreliella burgdorferi,Contig,50,1.31,360,FALSE,TRUE
+GCF_002996485.1_ASM299648v1,Borreliella burgdorferi,Contig,48,1.31,360,FALSE,TRUE
+GCF_002995885.1_ASM299588v1,Borreliella burgdorferi,Contig,50,1.31,359,FALSE,TRUE
+GCF_002996865.1_ASM299686v1,Borreliella burgdorferi,Contig,43,1.31,358,FALSE,TRUE
+GCF_002997145.1_ASM299714v1,Borreliella burgdorferi,Contig,47,1.3,361,FALSE,TRUE
+GCF_002996685.1_ASM299668v1,Borreliella burgdorferi,Contig,46,1.3,354,FALSE,TRUE
+GCF_002996285.1_ASM299628v1,Borreliella burgdorferi,Contig,42,1.3,331,FALSE,TRUE
+GCF_002996625.1_ASM299662v1,Borreliella burgdorferi,Contig,47,1.3,342,FALSE,TRUE
+GCF_002997065.1_ASM299706v1,Borreliella burgdorferi,Contig,39,1.3,333,FALSE,TRUE
+GCF_002995985.1_ASM299598v1,Borreliella burgdorferi,Contig,37,1.29,329,FALSE,TRUE
+GCF_002997205.1_ASM299720v1,Borreliella burgdorferi,Contig,38,1.29,324,FALSE,TRUE
+GCF_002997085.1_ASM299708v1,Borreliella burgdorferi,Contig,47,1.29,353,FALSE,TRUE
+GCF_002996465.1_ASM299646v1,Borreliella burgdorferi,Contig,46,1.29,352,FALSE,TRUE
+GCF_002997285.1_ASM299728v1,Borreliella burgdorferi,Contig,50,1.29,348,FALSE,TRUE
+GCF_002996585.1_ASM299658v1,Borreliella burgdorferi,Contig,46,1.29,351,FALSE,TRUE
+GCF_002996645.1_ASM299664v1,Borreliella burgdorferi,Contig,45,1.29,341,FALSE,TRUE
+GCF_002997265.1_ASM299726v1,Borreliella burgdorferi,Contig,45,1.29,350,FALSE,TRUE
+GCF_002997165.1_ASM299716v1,Borreliella burgdorferi,Contig,39,1.29,352,FALSE,TRUE
+GCF_002996395.1_ASM299639v1,Borreliella burgdorferi,Contig,39,1.29,357,FALSE,TRUE
+GCF_002996265.1_ASM299626v1,Borreliella burgdorferi,Contig,49,1.28,335,FALSE,TRUE
+GCF_002996405.1_ASM299640v1,Borreliella burgdorferi,Contig,49,1.28,333,FALSE,TRUE
+GCF_003367295.1_ASM336729v1,Borreliella burgdorferi,Complete Genome,16,1.28,305,TRUE,TRUE
+GCF_002996365.1_ASM299636v1,Borreliella burgdorferi,Contig,45,1.28,346,FALSE,TRUE
+GCF_002996305.1_ASM299630v1,Borreliella burgdorferi,Contig,44,1.27,348,FALSE,TRUE
+GCF_002995935.1_ASM299593v1,Borreliella burgdorferi,Contig,36,1.27,342,FALSE,TRUE
+GCF_002996105.1_ASM299610v1,Borreliella burgdorferi,Contig,34,1.27,310,FALSE,TRUE
+GCF_002997245.1_ASM299724v1,Borreliella burgdorferi,Contig,38,1.27,324,FALSE,TRUE
+GCF_002997105.1_ASM299710v1,Borreliella burgdorferi,Contig,41,1.27,343,FALSE,TRUE
+GCF_002997045.1_ASM299704v1,Borreliella burgdorferi,Contig,44,1.27,343,FALSE,TRUE
+GCF_002996475.1_ASM299647v1,Borreliella burgdorferi,Contig,48,1.26,321,FALSE,TRUE
+GCF_002996165.1_ASM299616v1,Borreliella burgdorferi,Contig,41,1.26,314,FALSE,TRUE
+GCF_051147265.1_ASM5114726v1,Borreliella burgdorferi,Chromosome,44,1.26,277,TRUE,TRUE
+GCF_002996705.1_ASM299670v1,Borreliella burgdorferi,Contig,34,1.25,314,FALSE,TRUE
+GCF_002996345.1_ASM299634v1,Borreliella burgdorferi,Contig,48,1.25,312,FALSE,TRUE
+GCF_002996025.1_ASM299602v1,Borreliella burgdorferi,Contig,39,1.25,299,FALSE,TRUE
+GCF_040790805.1_ASM4079080v1,Borreliella burgdorferi,Complete Genome,12,1.22,304,TRUE,TRUE
+GCF_051054285.1_ASM5105428v1,Borreliella burgdorferi,Chromosome,10,1.21,228,TRUE,TRUE
+GCF_051054305.1_ASM5105430v1,Borreliella burgdorferi,Chromosome,16,1.19,269,TRUE,TRUE
+GCF_051054355.1_ASM5105435v1,Borreliella burgdorferi,Chromosome,12,1.18,247,TRUE,TRUE
+GCF_051054855.1_ASM5105485v1,Borreliella burgdorferi,Chromosome,10,1.14,233,TRUE,TRUE
+GCF_051054485.1_ASM5105448v1,Borreliella burgdorferi,Chromosome,12,1.13,237,TRUE,TRUE
+GCF_051054475.1_ASM5105447v1,Borreliella burgdorferi,Chromosome,11,1.11,202,TRUE,TRUE
+GCF_051054345.1_ASM5105434v1,Borreliella burgdorferi,Chromosome,12,1.1,223,TRUE,TRUE
+GCF_051054405.1_ASM5105440v1,Borreliella burgdorferi,Chromosome,11,1.1,189,TRUE,TRUE
+GCF_038801875.1_ASM3880187v1,Borreliella burgdorferi,Complete Genome,2,0.95,50,TRUE,TRUE
+GCF_000166655.1_ASM16665v1,Borreliella burgdorferi,Complete Genome,21,1.53,414,TRUE,TRUE
+GCF_000008685.2_ASM868v2,Borreliella burgdorferi,Complete Genome,22,1.52,443,TRUE,TRUE
+GCF_030445065.1_ASM3044506v2,Borreliella burgdorferi,Complete Genome,21,1.5,421,TRUE,TRUE
+GCF_030440345.1_ASM3044034v2,Borreliella burgdorferi,Complete Genome,21,1.49,414,TRUE,TRUE
+GCF_000181555.2_ASM18155v2,Borreliella burgdorferi,Scaffold,32,1.47,406,TRUE,TRUE
+GCF_030439605.1_ASM3043960v2,Borreliella burgdorferi,Complete Genome,16,1.43,396,TRUE,TRUE
+GCF_040790775.1_ASM4079077v1,Borreliella burgdorferi,Complete Genome,17,1.42,397,TRUE,TRUE
+GCF_030439665.1_ASM3043966v2,Borreliella burgdorferi,Complete Genome,18,1.35,350,TRUE,TRUE
+GCF_000021405.1_ASM2140v1,Borreliella burgdorferi,Complete Genome,15,1.35,377,TRUE,TRUE
+GCF_000166635.1_ASM16663v1,Borreliella burgdorferi,Complete Genome,17,1.34,379,TRUE,TRUE
+GCF_030445005.1_ASM3044500v2,Borreliella burgdorferi,Complete Genome,14,1.34,345,TRUE,TRUE
+GCF_030439625.1_ASM3043962v2,Borreliella burgdorferi,Complete Genome,15,1.33,344,TRUE,TRUE
+GCF_030445025.1_ASM3044502v2,Borreliella burgdorferi,Complete Genome,12,1.31,321,TRUE,TRUE
+GCF_040790715.1_ASM4079071v1,Borreliella burgdorferi,Complete Genome,14,1.29,332,TRUE,TRUE
+GCF_032595375.1_ASM3259537v2,Borreliella burgdorferi,Complete Genome,12,1.28,317,TRUE,TRUE
+GCF_032595515.1_ASM3259551v2,Borreliella burgdorferi,Chromosome,12,1.28,306,TRUE,TRUE
+GCF_032595755.1_ASM3259575v2,Borreliella burgdorferi,Chromosome,11,1.26,288,TRUE,TRUE
+GCF_019134655.1_ASM1913465v1,Borreliella burgdorferi,Complete Genome,11,1.22,268,TRUE,TRUE
+GCF_030444985.1_ASM3044498v1,Borreliella burgdorferi,Complete Genome,4,1.01,123,TRUE,TRUE
+GCF_044941625.1_ASM4494162v1,Borreliella burgdorferi,Chromosome,4,1.01,123,TRUE,TRUE
+GCF_032595535.1_ASM3259553v1,Borreliella burgdorferi,Chromosome,4,1.01,120,TRUE,TRUE
+GCF_000444465.1_ASM44446v1,Borreliella burgdorferi,Complete Genome,1,0.91,19,FALSE,FALSE
+GCF_040268345.1_ASM4026834v1,Borreliella burgdorferi,Complete Genome,1,0.91,19,FALSE,FALSE
+GCF_000714705.1_935T,Borreliella garinii,Contig,7,1.18,186,FALSE,TRUE
+GCF_026642275.1_ASM2664227v1,Borreliella garinii,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572315.1_ASM2657231v1,Borreliella garinii,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572275.1_ASM2657227v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026572355.1_ASM2657235v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026572295.1_ASM2657229v1,Borreliella garinii,Complete Genome,1,0.91,14,FALSE,FALSE
+GCF_026642375.1_ASM2664237v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026572175.1_ASM2657217v1,Borreliella garinii,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026572215.1_ASM2657221v1,Borreliella garinii,Complete Genome,1,0.9,15,FALSE,FALSE
+GCF_026572335.1_ASM2657233v1,Borreliella garinii,Complete Genome,1,0.9,15,FALSE,FALSE
+GCF_026642355.1_ASM2664235v1,Borreliella garinii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_000300045.1_ASM30004v1,Borreliella garinii,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026642335.1_ASM2664233v1,Borreliella garinii,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026572255.1_ASM2657225v1,Borreliella garinii,Complete Genome,1,0.9,15,FALSE,FALSE
+GCF_026572235.1_ASM2657223v1,Borreliella garinii,Complete Genome,1,0.9,17,FALSE,FALSE
+GCF_026572195.1_ASM2657219v1,Borreliella garinii,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_003814405.1_ASM381440v1,Borreliella garinii,Complete Genome,11,1.23,245,TRUE,TRUE
+GCF_026643455.2_ASM2664345v2,Borreliella garinii,Complete Genome,12,1.22,278,TRUE,TRUE
+GCF_040790705.1_ASM4079070v1,Borreliella garinii,Complete Genome,10,1.2,243,TRUE,TRUE
+GCF_001922545.1_ASM192254v1,Borreliella garinii,Complete Genome,12,1.16,226,TRUE,TRUE
+GCF_000239475.1_ASM23947v1,Borreliella garinii,Complete Genome,3,0.99,110,TRUE,TRUE
+GCF_026643475.1_ASM2664347v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026572015.1_ASM2657201v1,Borreliella garinii,Complete Genome,1,0.91,14,FALSE,FALSE
+GCF_026642595.1_ASM2664259v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026642495.1_ASM2664249v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026642455.1_ASM2664245v1,Borreliella garinii,Complete Genome,1,0.91,14,FALSE,FALSE
+GCF_026642315.1_ASM2664231v1,Borreliella garinii,Complete Genome,1,0.91,14,FALSE,FALSE
+GCF_026642575.1_ASM2664257v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026642475.1_ASM2664247v1,Borreliella garinii,Complete Genome,1,0.91,14,FALSE,FALSE
+GCF_026642635.1_ASM2664263v1,Borreliella garinii,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026642615.1_ASM2664261v1,Borreliella garinii,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026572095.1_ASM2657209v1,Borreliella garinii,Complete Genome,1,0.91,16,FALSE,FALSE
+GCF_026642395.1_ASM2664239v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026572075.1_ASM2657207v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026642555.1_ASM2664255v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026572135.1_ASM2657213v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026572115.1_ASM2657211v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643075.1_ASM2664307v1,Borreliella garinii,Chromosome,1,0.9,14,FALSE,FALSE
+GCF_026642795.1_ASM2664279v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026572035.1_ASM2657203v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643295.1_ASM2664329v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026572055.1_ASM2657205v1,Borreliella garinii,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026643175.1_ASM2664317v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643375.1_ASM2664337v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026642415.1_ASM2664241v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026642435.1_ASM2664243v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026642955.1_ASM2664295v1,Borreliella garinii,Complete Genome,1,0.9,13,FALSE,FALSE
+GCF_026642855.1_ASM2664285v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643395.1_ASM2664339v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643415.1_ASM2664341v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643035.1_ASM2664303v1,Borreliella garinii,Complete Genome,1,0.9,13,FALSE,FALSE
+GCF_026642295.1_ASM2664229v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643435.1_ASM2664343v1,Borreliella garinii,Chromosome,1,0.9,13,FALSE,FALSE
+GCF_026643255.1_ASM2664325v1,Borreliella garinii,Chromosome,1,0.9,14,FALSE,FALSE
+GCF_026643495.1_ASM2664349v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026643355.1_ASM2664335v1,Borreliella garinii,Complete Genome,1,0.89,17,FALSE,FALSE
+GCF_026572155.1_ASM2657215v1,Borreliella garinii,Complete Genome,1,0.88,14,FALSE,FALSE
+GCF_026643515.1_ASM2664351v1,Borreliella garinii,Complete Genome,1,0.87,18,FALSE,FALSE
+GCF_035341875.1_ASM3534187v1,Borreliella garinii,Chromosome,9,1.19,242,TRUE,TRUE
+GCF_032609235.1_ASM3260923v1,Borreliella garinii,Chromosome,8,1.13,194,TRUE,TRUE
+GCF_032607615.1_ASM3260761v1,Borreliella garinii,Chromosome,8,1.13,194,TRUE,TRUE
+GCF_032610035.1_ASM3261003v1,Borreliella garinii,Chromosome,8,1.13,192,TRUE,TRUE
+GCF_032610675.1_ASM3261067v1,Borreliella garinii,Chromosome,8,1.13,193,TRUE,TRUE
+GCF_032608435.1_ASM3260843v1,Borreliella garinii,Chromosome,8,1.13,192,TRUE,TRUE
+GCF_032603535.1_ASM3260353v1,Borreliella garinii,Chromosome,7,1.09,189,TRUE,TRUE
+GCF_032604805.1_ASM3260480v1,Borreliella garinii,Chromosome,8,1.09,194,TRUE,TRUE
+GCF_032605755.1_ASM3260575v1,Borreliella garinii,Chromosome,7,1.08,155,TRUE,TRUE
+GCF_032606795.1_ASM3260679v1,Borreliella garinii,Chromosome,9,1.07,154,TRUE,TRUE
+GCF_040732965.1_ASM4073296v1,Borreliella garinii,Complete Genome,1,0.91,15,FALSE,FALSE
+GCF_026642535.1_ASM2664253v1,Borreliella garinii,Complete Genome,1,0.9,13,FALSE,FALSE
+GCF_000691545.1_ASM69154v1,Borreliella garinii,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026642515.1_ASM2664251v1,Borreliella garinii,Complete Genome,1,0.9,16,FALSE,FALSE
+GCF_026642655.1_ASM2664265v1,Borreliella garinii,Complete Genome,1,0.9,14,FALSE,FALSE
+GCF_026642715.1_ASM2664271v1,Borreliella garinii,Chromosome,1,0.9,13,FALSE,FALSE
+GCF_026642675.1_ASM2664267v1,Borreliella garinii,Complete Genome,1,0.85,19,FALSE,FALSE
